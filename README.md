@@ -1,5 +1,9 @@
 # gta6-clipper-01 — Clip GTA 6 for the most YouTube views
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Jacktt55/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Jacktt55/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 Entry for make.fun's `gta6-clipper-01` bounty: cut one GTA 6 moment into a
 short vertical clip that pitches make.fun, publish it publicly on YouTube,
 and hand in its address here. Places go by the video's views.
@@ -24,8 +28,10 @@ is Rockstar's own trailer — no streamer footage, no finished clip reused.
 `VIDEO.json` at this repository's root names the published Short:
 
 ```json
-{"url": "https://www.youtube.com/shorts/<id>"}
+{"url": "https://www.youtube.com/shorts/qiVSyhy0XFk"}
 ```
+
+Watch it here: https://www.youtube.com/shorts/qiVSyhy0XFk
 
 Its description carries the bounty's line word for word and the entrant's
 make.fun play code.
@@ -44,3 +50,5 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 https://make.fun/bounty/gta6-clipper-01 — $500 over 20 places, entries
 close 23 November 2026 01:00 UTC.
+
+Referral code: 7kmtfwak (https://make.fun/r/7kmtfwak)
